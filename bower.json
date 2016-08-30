@@ -1,0 +1,17 @@
+{
+  "name": "tour project",
+  "homepage": "https://github.com/IldarMin/tourProject-angular-",
+  "authors": [
+    "Ильдар Мингазов <mingazov.i@etton.ru>"
+  ],
+  "description": "starting new project",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
